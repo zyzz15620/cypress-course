@@ -9,6 +9,7 @@
   "author": "Duc Pham",
   "license": "ISC",
   "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
     "cypress": "^13.17.0"
   }
 }
